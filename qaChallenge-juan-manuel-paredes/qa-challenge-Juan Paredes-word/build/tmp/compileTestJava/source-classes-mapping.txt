@@ -1,0 +1,12 @@
+retoQA/stepdefinitions/stepdefinitions.java
+ retoQA.stepdefinitions.stepdefinitions
+retoQA/evidenciasWord/PrintEvi.java
+ retoQA.evidenciasWord.PrintEvi
+retoQA/evidenciasWord/PasoyEvidencia.java
+ retoQA.evidenciasWord.PasoyEvidencia
+retoQA/Funciones/Registro1.java
+ retoQA.Funciones.Registro1
+retoQA/dataRegister/dataRegister.java
+ retoQA.dataRegister.dataRegister
+retoQA/runner/runner.java
+ retoQA.runner.runner

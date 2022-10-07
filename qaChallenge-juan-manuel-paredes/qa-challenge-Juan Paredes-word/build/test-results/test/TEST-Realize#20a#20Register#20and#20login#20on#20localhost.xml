@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realize a Register and login on localhost" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-07T06:17:06" hostname="DESKTOP-6KOR5N8" time="12.221">
+  <properties/>
+  <testcase name="Realice a Register with a one step" classname="Realize a Register and login on localhost" time="8.564"/>
+  <testcase name="Realice a login with a a one step" classname="Realize a Register and login on localhost" time="3.649"/>
+  <system-out><![CDATA[Se abre la pagina y el navegador
+se escribe user
+01:17:10:989 >> Loading UFT Java Support (version 2021.0.0.0) (Oracle Corporation, 1.8.0_271)
+se escribe password
+se da click en iniciar sesion
+se  VALIDA correcto mensaje iniciar sesion
+Se abre la pagina y el navegador
+se escribe user
+se escribe password
+se da click en iniciar sesion
+se  VALIDA correcto mensaje iniciar sesion
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 11372
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1665123429.361][WARNING]: This version of ChromeDriver has not been tested with Chrome version 106.
+oct 07, 2022 1:17:09 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Realice a Register with a one step
+----------------------------------------------------------------------------
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 4198
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1665123436.327][WARNING]: This version of ChromeDriver has not been tested with Chrome version 106.
+oct 07, 2022 1:17:16 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Realice a login with a a one step
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
